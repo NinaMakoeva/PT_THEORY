@@ -1,1 +1,1 @@
-# PT_THEORY
+# Probability theory: lections
